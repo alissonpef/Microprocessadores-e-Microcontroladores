@@ -1,4 +1,4 @@
-# Microprocessadores e Microcontroladores - README
+# Microprocessadores e Microcontroladores
 
 ## Descrição
 

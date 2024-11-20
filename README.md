@@ -49,8 +49,8 @@ Este repositório contém materiais, exercícios e projetos práticos relacionad
 - **/Projetos**: Projetos de sistemas embarcados, incluindo o uso de sensores, atuadores e comunicação com periféricos.  
 
 ## 🛠️ Ferramentas Recomendadas  
-- **IDE para Microcontroladores:** MPLAB X e Atmel Studio.
-- **Simuladores:** Proteus. 
+- **IDE para Microcontroladores:** MPLAB X e MikroC.
+- **Simuladores:** Proteus.
 - **Linguagem de Programação:** Assembly, C para microcontroladores.  
 
 ## 📫 Contato  
